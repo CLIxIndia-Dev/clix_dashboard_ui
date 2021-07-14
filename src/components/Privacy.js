@@ -179,7 +179,7 @@ Effective Date: 1st April 2019 */}
           services offered on our Site, you may not be able to establish a user
           account and we may not be able to provide you with those services. 
         </p>
-        <strong> 3. PERSONAL INFORMATION </strong> 
+        <strong id="3"> 3. PERSONAL INFORMATION </strong> 
         <br/>
         <p>
           As used in this Privacy Policy, "Personal Information" means any
@@ -216,7 +216,7 @@ Effective Date: 1st April 2019 */}
           not work properly.
         </p>
         <strong id="5">5. YOUR RIGHT TO USE CONTENT ON THE SITE </strong>
-        We may collect the following kinds of data and use the same for some
+       <p> We may collect the following kinds of data and use the same for some
         specific purposes as under: <br/>
          • For the purpose for which you specifically
         provided the information, for example, to respond to a specific inquiry
@@ -275,6 +275,7 @@ Effective Date: 1st April 2019 */}
         controlled by CLIx. <br/> • In addition, we may share aggregated information
         that does not personally identify you with the public and with third
         parties.
+        </p>
         {/* <ul>
  <li> </li>  
 

@@ -196,12 +196,12 @@ export default function TermsofServices() {
           </p>
           <p>
             Visualizations and text: All the data visualization charts, maps,
-            and text produced by CLIxDashboard are licensed under a under a
-            <a
+            and text produced by CLIxDashboard are licensed under a under a  <a
               href="https://creativecommons.org/licenses/by/4.0/"
               target="_blank"
             >
-              Creative Commons Attribution 4.0 International license.{" "}
+              
+                  Creative Commons Attribution 4.0 International license.{" "}
             </a>{" "}
             The CC-BY license.{" "}
           </p>

@@ -138,7 +138,7 @@ function Footer() {
           <a href="https://clix.tiss.edu"  target="_blank" rel='noreferrer' style={{ marginRight: 50}}> clix.tiss.edu</a>
           <br />
           <i className="fa fa-envelope 2x"></i> Contact us:{" "}
-          <a href="mailto:https://www.contact@clix.tiss.edu" rel='noreferrer' align="left" target="_blank"> contact@clix.tiss.edu </a>
+          <a href="mailto:contact@clix.tiss.edu" rel='noreferrer' align="left" target="_blank"> contact@clix.tiss.edu </a>
         </Grid>
         <Box display={ {xs:'block',sm:'none', md:'none'}}>
         <a href="#"  href="https://www.facebook.com/cetei.tiss/?ref=bookmarks" target="_blank" aria-label="button for facebook"  href="https://twitter.com/@cetei_tiss" rel='noreferrer' className="icon-button twitter"><i className="fa fa-twitter"></i><span></span></a>
@@ -151,7 +151,7 @@ function Footer() {
      <Typography variant="inherit" >  
         Except where otherwise noted, content on this site is licensed under a{" "}
         <br />
-        Creative Commons Attribution 4.0 International license   <a href="https://creativecommons.org/licenses/by/4.0" target="_blank"> <img src={clogo} alt="logo for cc"/>  </a>
+        Creative Commons Attribution 4.0 International license   <a href="https://creativecommons.org/licenses/by/4.0" rel='noreferrer' target="_blank"> <img src={clogo} alt="logo for cc"/>  </a>
         {/* <span> <i className="fa fa-copyright 2x"></i> </span> */}
   </Typography>
       </Grid>

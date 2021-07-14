@@ -194,7 +194,7 @@ class LoginPage extends Component {
               variant="contained"
               color="primary"
               className={classes.submit}
-              onClick={this.handleSubmit}
+              onClick={this.handleSubmit} 
             >
               Sign In
             </Button>

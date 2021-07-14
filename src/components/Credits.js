@@ -33,7 +33,7 @@ export default function Credits() {
             use below citation:{" "} 
           </strong> <br/>
           Connected Learning Initiative (2019-21). CLIx Dashboard. Retrieved
-          from https://clixdashboard.tiss.edu
+          from <a href="https://clixdashboard.tiss.edu " target="_blank">https://clixdashboard.tiss.edu </a>
         </p>
         <p>
           {" "}
@@ -107,7 +107,7 @@ export default function Credits() {
 
         <strong>Field Team</strong>
         <hr />
-        <p>
+        <p> 
           {" "}
           The CLIx field team sets up the school ICT labs and syncs the learning
           data to the central server, coordinates with teachers and also

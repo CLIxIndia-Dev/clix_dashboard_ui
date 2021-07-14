@@ -421,7 +421,6 @@ defaultValue="State"
                 onChange={this.handleExpandClick.bind(this)}
               />
  </div>
-               
            
                 <div class="label-div" style={{ display: "inline-block" }}>
  <label styles={styles} id="school" htmlFor="aria-school-input" className="cust-select" title="Search/Select School">

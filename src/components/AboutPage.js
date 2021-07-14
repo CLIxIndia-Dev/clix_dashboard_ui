@@ -138,7 +138,7 @@ export default function AboutPage() {
             offered through CLIxPlatform - a next generation digital learning
             platform specifically designed for connected and collaborative
             learning in resource constrained contexts. The CLIxPlatform can be
-            accessed at <a href="https://clixplatform.tiss.edu" blank="_blank"> https://clixplatform.tiss.edu </a>
+            accessed at <a href="https://clixplatform.tiss.edu" target="_blank"> https://clixplatform.tiss.edu </a>
           </p>
           <p></p>
           <p>

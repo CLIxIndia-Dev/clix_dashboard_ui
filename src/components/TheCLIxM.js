@@ -95,7 +95,7 @@ export default function TabGlance() {
 <div className="container-fluid" style={{backgroundColor: '#f1f1f1', padding: '0px 20px 20px 20px'}}>
   <hr/>
   <p className="bold">Citation:</p> 
-  <p style={{fontWeight: 300}}> Connected Learning Initiative (2019-21). CLIx Dashboard. Retrieved from <a href="https://clixdashboard.tiss.edtu" target="_blank"> https://clixdashboard.tiss.edu </a> </p>
+  <p style={{fontWeight: 300}}> Connected Learning Initiative (2019-21). CLIx Dashboard. Retrieved from <a href="https://clixdashboard.tiss.edu" rel='noreferrer'  target="_blank"> https://clixdashboard.tiss.edu </a> </p>
 </div>
  </>
   );
